@@ -1,1 +1,1 @@
-# studentscoreprediction
+# student score prediction 
